@@ -1,0 +1,602 @@
+[
+    {
+        "ip_address": "68.202.24.50",
+        "city": "Rezende do Amparo",
+        "state": "PI",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "39.38.202.133",
+        "city": "Azevedo de Rezende",
+        "state": "DF",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "33.203.89.216",
+        "city": "Oliveira de Peixoto",
+        "state": "MT",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "177.108.198.31",
+        "city": "Silva das Flores",
+        "state": "PA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "2.57.104.70",
+        "city": "da Mota",
+        "state": "TO",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "89.158.249.89",
+        "city": "Rocha de Goi\u00e1s",
+        "state": "PE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "118.99.45.9",
+        "city": "da Mota",
+        "state": "RO",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "23.32.154.108",
+        "city": "Duarte de Alves",
+        "state": "SP",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "115.203.143.180",
+        "city": "da Concei\u00e7\u00e3o",
+        "state": "AP",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "26.11.249.70",
+        "city": "da Paz da Serra",
+        "state": "PE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "166.4.203.7",
+        "city": "Ribeiro",
+        "state": "RJ",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "85.55.141.40",
+        "city": "Oliveira",
+        "state": "AP",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "130.59.216.57",
+        "city": "Moura de Nascimento",
+        "state": "MG",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "204.185.2.69",
+        "city": "Monteiro Paulista",
+        "state": "CE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "128.174.155.16",
+        "city": "Moreira de Cardoso",
+        "state": "BA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "208.124.225.105",
+        "city": "Moraes",
+        "state": "RO",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "145.171.131.138",
+        "city": "Campos",
+        "state": "AM",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "152.93.134.250",
+        "city": "Azevedo dos Dourados",
+        "state": "BA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "148.217.198.240",
+        "city": "Viana de Ramos",
+        "state": "PI",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "117.170.131.184",
+        "city": "da Mota",
+        "state": "SE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "131.142.72.178",
+        "city": "Cunha Grande",
+        "state": "TO",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "43.220.186.3",
+        "city": "Teixeira",
+        "state": "PR",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "205.13.77.104",
+        "city": "Nascimento",
+        "state": "MG",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "40.252.240.212",
+        "city": "Azevedo Verde",
+        "state": "BA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "25.9.230.202",
+        "city": "Lopes",
+        "state": "RN",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "78.74.204.254",
+        "city": "da Concei\u00e7\u00e3o de Goi\u00e1s",
+        "state": "AM",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "21.11.229.19",
+        "city": "Novaes do Amparo",
+        "state": "CE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "126.118.119.72",
+        "city": "Porto",
+        "state": "DF",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "68.72.32.204",
+        "city": "Nunes Alegre",
+        "state": "RO",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "40.139.86.189",
+        "city": "Dias da Praia",
+        "state": "PI",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "97.18.234.143",
+        "city": "Ribeiro",
+        "state": "PR",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "214.11.46.187",
+        "city": "Gon\u00e7alves do Galho",
+        "state": "DF",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "204.217.25.51",
+        "city": "Barros Verde",
+        "state": "GO",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "71.5.30.168",
+        "city": "Viana",
+        "state": "TO",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "45.13.143.8",
+        "city": "Dias",
+        "state": "SE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "204.60.103.184",
+        "city": "Caldeira",
+        "state": "PE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "195.91.195.125",
+        "city": "Cardoso",
+        "state": "MG",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "222.161.34.171",
+        "city": "Almeida",
+        "state": "BA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "177.32.81.57",
+        "city": "Rodrigues",
+        "state": "MT",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "212.236.2.139",
+        "city": "Fernandes",
+        "state": "RN",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "72.85.124.190",
+        "city": "Rocha",
+        "state": "PB",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "220.85.47.189",
+        "city": "Viana das Pedras",
+        "state": "BA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "36.255.110.232",
+        "city": "Gomes",
+        "state": "PE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "79.26.175.191",
+        "city": "Monteiro da Serra",
+        "state": "RS",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "62.122.240.250",
+        "city": "Cunha",
+        "state": "RS",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "183.89.251.232",
+        "city": "Lopes de Goi\u00e1s",
+        "state": "SE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "181.231.200.2",
+        "city": "Moreira",
+        "state": "DF",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "197.136.147.92",
+        "city": "Caldeira",
+        "state": "PE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "37.201.95.153",
+        "city": "da Mota",
+        "state": "AL",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "130.143.144.164",
+        "city": "Cardoso do Sul",
+        "state": "PA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "107.116.67.143",
+        "city": "Monteiro",
+        "state": "AL",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "45.163.171.139",
+        "city": "Castro",
+        "state": "AL",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "122.21.167.96",
+        "city": "Cardoso Paulista",
+        "state": "ES",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "25.122.73.31",
+        "city": "Melo",
+        "state": "MG",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "136.104.66.243",
+        "city": "Viana",
+        "state": "SC",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "213.222.77.90",
+        "city": "Fernandes de Minas",
+        "state": "BA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "49.210.21.79",
+        "city": "Costa do Sul",
+        "state": "MS",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "54.127.6.73",
+        "city": "da Rosa",
+        "state": "MG",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "221.185.77.34",
+        "city": "Lima de Almeida",
+        "state": "AM",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "155.107.12.69",
+        "city": "Fernandes",
+        "state": "SP",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "179.206.209.44",
+        "city": "Pires de Peixoto",
+        "state": "RO",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "221.89.74.191",
+        "city": "Souza",
+        "state": "BA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "124.226.194.162",
+        "city": "Monteiro de Barros",
+        "state": "AM",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "91.13.75.211",
+        "city": "da Mata",
+        "state": "MA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "221.144.111.193",
+        "city": "Cunha",
+        "state": "RS",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "154.148.94.247",
+        "city": "Costa",
+        "state": "BA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "80.99.179.176",
+        "city": "Cavalcanti",
+        "state": "AM",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "131.239.185.75",
+        "city": "da Rocha das Pedras",
+        "state": "CE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "223.94.167.160",
+        "city": "Ribeiro de da Rosa",
+        "state": "PI",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "30.120.207.53",
+        "city": "da Paz das Pedras",
+        "state": "AL",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "37.70.133.236",
+        "city": "Gon\u00e7alves dos Dourados",
+        "state": "SP",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "92.190.255.114",
+        "city": "da Rosa de da Cunha",
+        "state": "RS",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "182.215.114.195",
+        "city": "da Cunha de Moraes",
+        "state": "CE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "48.170.212.189",
+        "city": "Azevedo da Prata",
+        "state": "RO",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "183.237.108.139",
+        "city": "da Rosa",
+        "state": "SC",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "76.14.13.14",
+        "city": "da Paz",
+        "state": "PB",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "49.169.191.10",
+        "city": "Oliveira do Campo",
+        "state": "GO",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "71.133.170.247",
+        "city": "da Cunha",
+        "state": "DF",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "120.241.187.225",
+        "city": "Porto de Goi\u00e1s",
+        "state": "SE",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "83.60.97.95",
+        "city": "da Costa da Serra",
+        "state": "PA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "197.254.108.113",
+        "city": "Moreira",
+        "state": "PB",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "5.56.166.192",
+        "city": "Almeida Verde",
+        "state": "PI",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "17.245.138.234",
+        "city": "Rocha da Serra",
+        "state": "RR",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "132.133.13.222",
+        "city": "Sales",
+        "state": "RS",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "46.26.170.187",
+        "city": "Monteiro",
+        "state": "AP",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "19.62.59.44",
+        "city": "da Luz",
+        "state": "MT",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "194.141.27.25",
+        "city": "Novaes",
+        "state": "DF",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "189.184.61.146",
+        "city": "Cunha da Mata",
+        "state": "PA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "192.75.9.243",
+        "city": "Cunha",
+        "state": "AL",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "92.143.98.243",
+        "city": "Farias dos Dourados",
+        "state": "MG",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "113.125.84.94",
+        "city": "Jesus",
+        "state": "MS",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "145.133.67.5",
+        "city": "Oliveira Verde",
+        "state": "PI",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "30.135.94.152",
+        "city": "da Cruz da Mata",
+        "state": "PR",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "32.39.24.9",
+        "city": "da Costa",
+        "state": "GO",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "106.113.35.65",
+        "city": "Souza de da Rocha",
+        "state": "MG",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "172.119.69.63",
+        "city": "da Costa do Sul",
+        "state": "RJ",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "170.117.175.182",
+        "city": "da Mata",
+        "state": "RS",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "128.184.136.192",
+        "city": "Dias das Flores",
+        "state": "BA",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "17.208.73.19",
+        "city": "Nunes de Goi\u00e1s",
+        "state": "MT",
+        "country": "Brasil"
+    },
+    {
+        "ip_address": "134.219.142.66",
+        "city": "Nascimento",
+        "state": "RO",
+        "country": "Brasil"
+    }
+]
